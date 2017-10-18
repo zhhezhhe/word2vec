@@ -1,3 +1,11 @@
+# questions
+run
+```
+./train.sh
+```
+It is true when input is ./data/swivel_data_2    
+It is false when input is ./data/swivel_data
+
 # Swivel in Tensorflow
 
 This is a [TensorFlow](http://www.tensorflow.org/) implementation of the
